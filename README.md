@@ -27,7 +27,7 @@
 
 
 <div align="center">
-    <a href="#tecnologias-utilizadas" scroll-behavior="smooth">Tecnologias Utilizadas</a> •
+    <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a> •
     <a href="#finalidade-do-projeto">Finalidade do Projeto</a> •
     <a href="#dificuldades-encontradas-e-aprendizados">Dificuldades Encontradas e Aprendizados</a> •
     <a href="#como-ter-acesso-ao-código">Como ter acesso ao Código</a> 
